@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SabadoClase2",
+			"Path": "C:\\Users\\I3 3220\\Documents\\Unreal Projects\\SabadoClase2\\Source\\SabadoClase2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SabadoClase2Editor",
+			"Path": "C:\\Users\\I3 3220\\Documents\\Unreal Projects\\SabadoClase2\\Source\\SabadoClase2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

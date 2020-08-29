@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SabadoClase2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\SabadoClase2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\UE4Editor\Development\SabadoClase2\SabadoClase2.cpp.obj"
+"C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\UE4Editor\Development\SabadoClase2\SabadoClase2GameModeBase.cpp.obj"
+"C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\UE4Editor\Development\SabadoClase2\WorldPosition.cpp.obj"
+"C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\UE4Editor\Development\SabadoClase2\WorldPosition2.cpp.obj"
+"C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\UE4Editor\Development\SabadoClase2\SabadoClase2.init.gen.cpp.obj"
+"C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\UE4Editor\Development\SabadoClase2\SabadoClase2GameModeBase.gen.cpp.obj"
+"C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\UE4Editor\Development\SabadoClase2\WorldPosition.gen.cpp.obj"
+"C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\UE4Editor\Development\SabadoClase2\WorldPosition2.gen.cpp.obj"
+"C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\UE4Editor\Development\SabadoClase2\Default.rc2.res"
+/OUT:"C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\UE4Editor\Development\SabadoClase2\UE4Editor-SabadoClase2.lib"
+/INCLUDE:IMPLEMENT_MODULE_SabadoClase2

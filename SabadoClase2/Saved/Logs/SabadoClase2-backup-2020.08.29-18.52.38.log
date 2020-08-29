@@ -1,0 +1,1012 @@
+﻿Log file open, 08/29/20 12:46:55
+LogInit: Display: Running engine for game: SabadoClase2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.105938
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU:         Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz, GPU: Radeon RX 570 Series
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.29-17.47.03:185][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.29-17.47.03:185][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.29-17.47.03:185][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Engine.ini]
+[2020.08.29-17.47.03:185][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.29-17.47.03:185][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Engine.ini]
+[2020.08.29-17.47.03:185][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Engine.ini]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Engine.ini]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.29-17.47.03:186][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Engine.ini]
+[2020.08.29-17.47.03:186][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Engine.ini]
+[2020.08.29-17.47.03:189][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:189][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.29-17.47.03:189][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.29-17.47.03:189][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:189][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.29-17.47.03:189][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:189][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.29-17.47.03:189][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.29-17.47.03:189][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.29-17.47.03:189][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.29-17.47.03:190][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.29-17.47.03:191][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.29-17.47.03:191][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.29-17.47.03:191][  0]LogHAL: Display: Platform has ~ 8 GB [8559095808 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.29-17.47.03:191][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.29-17.47.03:191][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:191][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.29-17.47.03:191][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.29-17.47.03:192][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:192][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.29-17.47.03:193][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Scalability.ini]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.29-17.47.03:194][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.08.29-17.47.03:195][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.08.29-17.47.03:195][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.08.29-17.47.03:195][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.08.29-17.47.03:195][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.29-17.47.03:195][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.29-17.47.03:195][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.29-17.47.03:195][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.08.29-17.47.03:195][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Config/Windows/Engine.ini]
+[2020.08.29-17.47.03:195][  0]LogInit: Computer: I3-3220-PC
+[2020.08.29-17.47.03:195][  0]LogInit: User: I33220
+[2020.08.29-17.47.03:195][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.08.29-17.47.03:195][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.29-17.47.03:195][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2020.08.29-17.47.03:195][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.29-17.47.03:195][  0]LogMemory: Process Physical Memory: 112.95 MB used, 112.96 MB peak
+[2020.08.29-17.47.03:196][  0]LogMemory: Process Virtual Memory: 94.98 MB used, 94.98 MB peak
+[2020.08.29-17.47.03:196][  0]LogMemory: Physical Memory: 4734.50 MB used,  3428.09 MB free, 8162.59 MB total
+[2020.08.29-17.47.03:196][  0]LogMemory: Virtual Memory: 5122.73 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.08.29-17.47.03:247][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.29-17.47.03:813][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.08.29-17.47.03:814][  0]LogInit: Using OS detected language (es-MX).
+[2020.08.29-17.47.03:815][  0]LogInit: Using OS detected locale (es-PE).
+[2020.08.29-17.47.03:828][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/es-MX/Editor.locres' could not be opened for reading!
+[2020.08.29-17.47.03:829][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/es-MX/EditorTutorials.locres' could not be opened for reading!
+[2020.08.29-17.47.03:829][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/es-MX/Keywords.locres' could not be opened for reading!
+[2020.08.29-17.47.03:829][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/es-MX/Category.locres' could not be opened for reading!
+[2020.08.29-17.47.03:829][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/es-MX/ToolTips.locres' could not be opened for reading!
+[2020.08.29-17.47.03:829][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/es-MX/PropertyNames.locres' could not be opened for reading!
+[2020.08.29-17.47.03:829][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/es-MX/Engine.locres' could not be opened for reading!
+[2020.08.29-17.47.03:830][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/es-MX/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.08.29-17.47.03:830][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/es-MX/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.08.29-17.47.03:830][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/es-MX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.08.29-17.47.03:915][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.29-17.47.04:048][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.29-17.47.04:048][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.29-17.47.04:324][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.29-17.47.04:324][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.29-17.47.04:324][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.29-17.47.04:324][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.29-17.47.04:491][  0]LogD3D11RHI:    0. 'Radeon RX 570 Series' (Feature Level 11_0)
+[2020.08.29-17.47.04:491][  0]LogD3D11RHI:       8171/0/4081 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.08.29-17.47.04:495][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.29-17.47.04:495][  0]LogD3D11RHI:       0/0/4081 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.29-17.47.04:495][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.29-17.47.04:505][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.29-17.47.04:505][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2020.08.29-17.47.04:505][  0]LogWindows: EnumDisplayDevices:
+[2020.08.29-17.47.04:506][  0]LogWindows:    0. 'Radeon RX 570 Series' (P:1 D:1)
+[2020.08.29-17.47.04:506][  0]LogWindows:    1. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.08.29-17.47.04:507][  0]LogWindows:    2. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.08.29-17.47.04:508][  0]LogWindows:    3. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.08.29-17.47.04:508][  0]LogWindows:    4. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.08.29-17.47.04:509][  0]LogWindows:    5. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.08.29-17.47.04:510][  0]LogWindows:    6. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.08.29-17.47.04:511][  0]LogWindows:    7. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.08.29-17.47.04:511][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2020.08.29-17.47.04:511][  0]LogD3D11RHI:     Adapter Name: Radeon RX 570 Series
+[2020.08.29-17.47.04:511][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.4.2 (internal:26.20.15029.27016, unified:26.20.15029.27016)
+[2020.08.29-17.47.04:511][  0]LogD3D11RHI:      Driver Date: 4-21-2020
+[2020.08.29-17.47.04:511][  0]LogRHI: Texture pool is 4862 MB (70% of 6946 MB)
+[2020.08.29-17.47.04:640][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.08.29-17.47.04:640][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.29-17.47.04:640][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.08.29-17.47.04:657][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.08.29-17.47.05:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.29-17.47.05:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.29-17.47.05:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.29-17.47.05:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.29-17.47.05:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.29-17.47.05:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.29-17.47.05:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.29-17.47.05:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.29-17.47.05:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.29-17.47.05:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.29-17.47.05:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.29-17.47.05:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.29-17.47.05:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.29-17.47.05:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.08.29-17.47.05:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.29-17.47.05:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.29-17.47.05:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.29-17.47.05:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.29-17.47.05:444][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.29-17.47.05:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.29-17.47.05:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.29-17.47.05:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.29-17.47.05:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.29-17.47.05:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.29-17.47.05:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.29-17.47.05:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.29-17.47.05:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.29-17.47.05:617][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.29-17.47.05:617][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.29-17.47.05:630][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.29-17.47.05:743][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Intermediate/Shaders/WorkingDirectory/12504/).
+[2020.08.29-17.47.05:744][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/I3 3220/AppData/Local/Temp/UnrealShaderWorkingDir/6D45E358401B9EB6414F059C79FFA4E6/'.
+[2020.08.29-17.47.05:745][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.29-17.47.05:745][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.29-17.47.05:745][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.29-17.47.07:211][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.29-17.47.07:313][  0]LogDerivedDataCache: Loaded boot cache 0.10s 75MB C:/Users/I3 3220/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.29-17.47.07:313][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/I3 3220/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.08.29-17.47.07:313][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.29-17.47.07:313][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.29-17.47.07:313][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.29-17.47.07:313][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.29-17.47.07:333][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.29-17.47.07:333][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.29-17.47.07:333][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.29-17.47.07:345][  0]LogDerivedDataCache: Using Local data cache path C:/Users/I3 3220/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.29-17.47.07:345][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.29-17.47.07:345][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.29-17.47.07:477][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.29-17.47.07:478][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.29-17.47.07:536][  0]LogAssetRegistry: FAssetRegistry took 0.0078 seconds to start up
+[2020.08.29-17.47.08:002][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.29-17.47.08:163][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.29-17.47.08:163][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.29-17.47.08:163][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.29-17.47.08:163][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.29-17.47.08:163][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.29-17.47.08:185][  0]LogNetVersion: SabadoClase2 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 4214546772)
+[2020.08.29-17.47.08:846][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002594E321EC0), frame # 0
+[2020.08.29-17.47.08:846][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002594E285E40), frame # 0
+[2020.08.29-17.47.08:848][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002594E2D6000), frame # 0
+[2020.08.29-17.47.10:034][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 2 prioritized culture(s) in 1.177331 seconds
+[2020.08.29-17.47.10:041][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.08.29-17.47.10:041][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.08.29-17.47.10:041][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.29-17.47.10:565][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.29-17.47.12:888][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.29-17.47.13:009][  0]LogLinker: Warning: Error al cargar '{FileName}': No puede encontrar el archivo
+[2020.08.29-17.47.13:010][  0]LogLinker: Warning: Error al cargar '{FileName}': No puede encontrar el archivo
+[2020.08.29-17.47.13:010][  0]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Class /Game/VehicleBP/VehicleOverview.VehicleOverview_C'
+[2020.08.29-17.47.13:147][  0]SourceControl: El control de código fuente está desactivado
+[2020.08.29-17.47.13:147][  0]SourceControl: El control de código fuente está desactivado
+[2020.08.29-17.47.13:154][  0]SourceControl: El control de código fuente está desactivado
+[2020.08.29-17.47.13:159][  0]SourceControl: El control de código fuente está desactivado
+[2020.08.29-17.47.13:174][  0]SourceControl: El control de código fuente está desactivado
+[2020.08.29-17.47.13:665][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.29-17.47.13:698][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.29-17.47.13:698][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.29-17.47.13:816][  0]LogOcInput: OculusInput pre-init called
+[2020.08.29-17.47.13:844][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.29-17.47.13:844][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.29-17.47.14:011][  0]LogEngine: Initializing Engine...
+[2020.08.29-17.47.14:115][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.29-17.47.14:130][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.08.29-17.47.14:131][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.29-17.47.14:348][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.29-17.47.14:360][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.29-17.47.14:360][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025952B9BC00), frame # 0
+[2020.08.29-17.47.14:360][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025952C26980), frame # 0
+[2020.08.29-17.47.14:390][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.29-17.47.14:390][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.29-17.47.14:390][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.29-17.47.14:391][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.29-17.47.14:391][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.29-17.47.14:391][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.29-17.47.14:391][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.29-17.47.14:391][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.29-17.47.14:392][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.29-17.47.14:392][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.29-17.47.14:415][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.29-17.47.14:415][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.29-17.47.14:476][  0]LogAudioMixer: Display: Using Audio Device 4 - LE19W037 (2- AMD High Definition Audio Device)
+[2020.08.29-17.47.14:480][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.29-17.47.14:484][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.29-17.47.14:484][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.29-17.47.14:485][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.29-17.47.14:486][  0]LogInit: FAudioDevice initialized.
+[2020.08.29-17.47.14:487][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.29-17.47.16:590][  0]LogDerivedDataCache: Saved boot cache 2.10s 75MB C:/Users/I3 3220/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.29-17.47.16:603][  0]LogInit: Texture streaming: Enabled
+[2020.08.29-17.47.16:634][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.29-17.47.16:634][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.29-17.47.16:656][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.29-17.47.16:891][  0]LogInit: Transaction tracking system initialized
+[2020.08.29-17.47.16:933][  0]BlueprintLog: New page: Cargar el editor
+[2020.08.29-17.47.17:598][  0]LocalizationService: Localization service is disabled
+[2020.08.29-17.47.18:835][  0]LogFileCache: Scanning file cache for directory 'C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/' took 0.01s
+[2020.08.29-17.47.18:835][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.29-17.47.18:835][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.29-17.47.19:602][  0]SourceControl: El control de código fuente está desactivado
+[2020.08.29-17.47.19:603][  0]LogUnrealEdMisc: Loading editor; pre map load, took 32.961
+[2020.08.29-17.47.19:603][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.29-17.47.19:603][  0]LightingResults: New page: Diseñar la iluminación
+[2020.08.29-17.47.19:604][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.29-17.47.19:604][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.29-17.47.19:604][  0]MapCheck: New page: Revisión del mapa
+[2020.08.29-17.47.19:604][  0]LightingResults: New page: Diseñar la iluminación
+[2020.08.29-17.47.19:616][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025952B9BC00), frame # 0
+[2020.08.29-17.47.19:616][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025952C26980), frame # 0
+[2020.08.29-17.47.19:617][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.08.29-17.47.19:764][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.29-17.47.19:764][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000259467D7E00), frame # 0
+[2020.08.29-17.47.19:764][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025952ACDA80), frame # 0
+[2020.08.29-17.47.19:773][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.29-17.47.19:788][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.08.29-17.47.19:788][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.29-17.47.19:789][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.34ms to complete.
+[2020.08.29-17.47.19:789][  0]LogFileHelpers: Loading map 'Template_Default' took 0.186
+[2020.08.29-17.47.19:849][  0]LogUnrealEdMisc: Total Editor Startup Time, took 33.207
+[2020.08.29-17.47.29:315][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.29-17.47.29:607][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.29-17.47.29:624][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.29-17.47.29:642][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.29-17.47.31:072][  0]LogCollectionManager: Loaded 0 collections in 0.003900 seconds
+[2020.08.29-17.47.35:645][  0]LogFileCache: Scanning file cache for directory 'C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Collections/' took 0.00s
+[2020.08.29-17.47.35:645][  0]LogFileCache: Scanning file cache for directory 'C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/Developers/I33220/Collections/' took 0.00s
+[2020.08.29-17.47.35:645][  0]LogFileCache: Scanning file cache for directory 'C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/Collections/' took 0.00s
+[2020.08.29-17.47.35:645][  0]LogContentBrowser: Native class hierarchy populated in 0.1239 seconds. Added 3428 classes and 823 folders.
+[2020.08.29-17.47.36:826][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.08.29-17.47.36:910][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.08.29-17.47.37:090][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2020.08.29-17.47.47:049][  0]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.29-17.47.47:134][  0]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.29-17.47.47:876][  0]LogSlate: Took 0.104307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.29-17.47.54:580][  0]LogRenderer: Reallocating scene render targets to support 824x348 Format 10 NumSamples 1 (Frame:1).
+[2020.08.29-17.48.22:139][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.08.29-17.48.22:139][  0]LogLoad: (Engine Initialization) Total time: 95.50 seconds
+[2020.08.29-17.48.22:139][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.29-17.48.23:639][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.29-17.50.45:390][562]LogAssetRegistry: Asset discovery search completed in 217.8577 seconds
+[2020.08.29-17.50.45:396][562]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.08.29-17.52.31:538][243]LogRenderer: Reallocating scene render targets to support 824x396 Format 10 NumSamples 1 (Frame:19247).
+[2020.08.29-17.52.31:736][244]LogRenderer: Reallocating scene render targets to support 824x412 Format 10 NumSamples 1 (Frame:19249).
+[2020.08.29-17.52.31:781][245]LogRenderer: Reallocating scene render targets to support 824x480 Format 10 NumSamples 1 (Frame:19251).
+[2020.08.29-18.03.40:004][728]LogUProjectInfo: Found projects:
+[2020.08.29-18.03.40:073][728]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.08.29-18.03.40:073][728]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.08.29-18.03.40:255][728]LogSlate: Took 0.131659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.29-18.03.49:315][621]LogSlate: Window 'New Project' being destroyed
+[2020.08.29-18.05.38:240][ 41]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{06e20204-c0e3-41d3-bf62-009aa9d8ac56}.
+[2020.08.29-18.05.38:240][ 41]LogTemp: Resetting audio stream to device id 
+[2020.08.29-18.05.38:311][ 41]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.29-18.05.38:311][ 41]LogAudioMixer: Display: 1: FrontRight
+[2020.08.29-18.15.37:222][904]LogSlate: Took 0.034717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.29-18.15.44:838][284]LogSlate: Window 'Visor de la clase' being destroyed
+[2020.08.29-18.15.44:847][284]LogSlate: Window 'Visor de la clase' being destroyed
+[2020.08.29-18.15.52:370][874]LogActorFactory: Actor Factory created Sphere
+[2020.08.29-18.15.54:509][  2]LogActorFactory: Actor Factory created Sphere
+[2020.08.29-18.16.09:631][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.08.29-18.17.18:084][ 80]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.29-18.17.59:560][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.08.29-18.18.01:297][644]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Untitled_1_Auto19293F6A845ADA1503E91D7912DAD0450.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2020.08.29-18.18.01:900][644]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 2.408
+[2020.08.29-18.18.01:900][644]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.408
+[2020.08.29-18.20.05:943][705]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/I3 3220/Downloads/Door+Frame+and+Door/2x1 Door and Frame.fbx)
+[2020.08.29-18.20.10:587][705]LogFbx: Loading FBX Scene from ../../../../../../Users/I3 3220/Downloads/Door+Frame+and+Door/2x1 Door and Frame.fbx
+[2020.08.29-18.20.11:847][705]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.29-18.21.05:726][705]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2020.08.29-18.21.07:550][705]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Mikey\Pictures\Textures\TexturesCom_Wood_Rough_1K_albedo.png
+[2020.08.29-18.21.07:606][705]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.08.29-18.21.09:699][705]LogMaterial: Display: Missing cached shader map for material Brass, compiling. 
+[2020.08.29-18.21.09:717][705]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.08.29-18.21.09:717][705]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.08.29-18.21.09:717][705]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.29-18.21.09:728][705]LogFbx: Display: Triangulating static mesh Door
+[2020.08.29-18.21.10:284][705]LogStaticMesh: Generando la malla estática 2x1_Door_and_Frame_Door...
+[2020.08.29-18.21.12:767][705]LogStaticMesh: Built static mesh [2.46s] /Game/Assets/Objects/2x1_Door_and_Frame_Door.2x1_Door_and_Frame_Door
+[2020.08.29-18.21.15:438][705]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Mikey\Downloads\TexturesCom_DamagedConcrete_3x3_1K_albedo.tif
+[2020.08.29-18.21.15:440][705]LogMaterial: Display: Missing cached shader map for material Broken_Concrete, compiling. 
+[2020.08.29-18.21.15:454][705]LogFbx: Display: Triangulating static mesh Frame
+[2020.08.29-18.21.15:466][705]LogStaticMesh: Generando la malla estática 2x1_Door_and_Frame_Frame...
+[2020.08.29-18.21.15:476][705]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Objects/2x1_Door_and_Frame_Frame.2x1_Door_and_Frame_Frame
+[2020.08.29-18.21.15:565][705]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/I3 3220/Downloads/Door+Frame+and+Door/UV Test.png)
+[2020.08.29-18.21.16:273][705]LogTexture: Display: Building textures: UV_Test (AutoDXT, 1024X1024)
+[2020.08.29-18.21.25:544][996]LogSlate: Window 'Buscador de contenido' being destroyed
+[2020.08.29-18.21.25:557][996]LogSlate: Window 'Buscador de contenido' being destroyed
+[2020.08.29-18.21.29:545][ 76]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.08.29-18.21.39:235][187]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.08.29-18.21.39:914][200]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.08.29-18.21.56:773][964]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.08.29-18.21.58:057][ 37]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.08.29-18.21.59:105][123]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.29-18.22.04:573][469]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.08.29-18.27.10:734][104]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Frame
+[2020.08.29-18.27.11:785][171]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Frame
+[2020.08.29-18.27.13:087][222]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Door
+[2020.08.29-18.27.16:432][463]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Door
+[2020.08.29-18.27.27:093][225]LogRenderer: Reallocating scene render targets to support 824x484 Format 10 NumSamples 1 (Frame:144919).
+[2020.08.29-18.27.27:174][226]LogRenderer: Reallocating scene render targets to support 824x488 Format 10 NumSamples 1 (Frame:144921).
+[2020.08.29-18.27.29:809][409]LogRenderer: Reallocating scene render targets to support 828x488 Format 10 NumSamples 1 (Frame:145066).
+[2020.08.29-18.27.29:864][410]LogRenderer: Reallocating scene render targets to support 844x488 Format 10 NumSamples 1 (Frame:145068).
+[2020.08.29-18.27.29:912][411]LogRenderer: Reallocating scene render targets to support 860x488 Format 10 NumSamples 1 (Frame:145070).
+[2020.08.29-18.27.29:966][413]LogRenderer: Reallocating scene render targets to support 864x488 Format 10 NumSamples 1 (Frame:145072).
+[2020.08.29-18.27.30:050][415]LogRenderer: Reallocating scene render targets to support 868x488 Format 10 NumSamples 1 (Frame:145076).
+[2020.08.29-18.27.30:100][416]LogRenderer: Reallocating scene render targets to support 872x488 Format 10 NumSamples 1 (Frame:145078).
+[2020.08.29-18.27.30:146][417]LogRenderer: Reallocating scene render targets to support 880x488 Format 10 NumSamples 1 (Frame:145080).
+[2020.08.29-18.28.15:232][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.29-18.28.16:079][605]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.29-18.28.19:006][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Frame)
+[2020.08.29-18.28.19:049][606]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (2x1_Door_and_Frame_Frame)
+[2020.08.29-18.28.19:845][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.29-18.28.20:597][655]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.29-18.28.26:558][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Frame)
+[2020.08.29-18.28.40:335][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.29-18.28.41:061][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Frame)
+[2020.08.29-18.28.47:435][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2020.08.29-18.28.50:882][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2020.08.29-18.28.51:454][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Frame)
+[2020.08.29-18.28.52:004][ 87]Cmd: DELETE
+[2020.08.29-18.28.52:004][ 87]Cmd: ACTOR DELETE
+[2020.08.29-18.28.53:141][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.29-18.28.53:155][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.08.29-18.28.53:297][ 87]LogEditorActor: Deleted 1 Actors (0.254 secs)
+[2020.08.29-18.28.53:303][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2020.08.29-18.28.53:940][138]Cmd: DELETE
+[2020.08.29-18.28.53:940][138]Cmd: ACTOR DELETE
+[2020.08.29-18.28.53:942][138]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.29-18.28.53:955][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.08.29-18.28.53:956][138]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.08.29-18.29.01:129][707]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Frame
+[2020.08.29-18.29.01:130][707]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Door
+[2020.08.29-18.29.02:095][774]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Frame
+[2020.08.29-18.29.02:118][774]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Door
+[2020.08.29-18.29.13:120][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2020.08.29-18.29.56:524][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.29-18.29.56:646][228]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Untitled_1_Auto2C6AC590946C73F0D7D74D1A3E5D266ED.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2020.08.29-18.29.56:923][228]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.415
+[2020.08.29-18.29.56:924][228]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.415
+[2020.08.29-18.29.56:925][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Objects/UV_Test] ([1] browsable assets)...
+[2020.08.29-18.29.57:549][228]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Objects/UV_Test.UV_Test]
+[2020.08.29-18.29.57:549][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Objects/UV_Test]
+[2020.08.29-18.29.57:652][228]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/UV_Test_Auto23C5D1C57447C414E6C127E950FED0B00.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Autosaves/Game/Assets/Objects/UV_Test_Auto2.uasset'
+[2020.08.29-18.29.57:653][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Objects/2x1_Door_and_Frame_Door] ([1] browsable assets)...
+[2020.08.29-18.29.57:679][228]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Objects/2x1_Door_and_Frame_Door.2x1_Door_and_Frame_Door]
+[2020.08.29-18.29.57:679][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Objects/2x1_Door_and_Frame_Door]
+[2020.08.29-18.29.58:231][228]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/2x1_Door_and_Frame_Door_Auto2757C153048CCDD6CDF757E82EB7CB6AA.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Autosaves/Game/Assets/Objects/2x1_Door_and_Frame_Door_Auto2.uasset'
+[2020.08.29-18.29.58:233][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Objects/Wood] ([1] browsable assets)...
+[2020.08.29-18.29.58:291][228]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Objects/Wood.Wood]
+[2020.08.29-18.29.58:291][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Objects/Wood]
+[2020.08.29-18.29.58:311][228]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Wood_Auto214770E3947ADBCD6EC5754BD14F06587.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Autosaves/Game/Assets/Objects/Wood_Auto2.uasset'
+[2020.08.29-18.29.58:368][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Objects/Broken_Concrete] ([1] browsable assets)...
+[2020.08.29-18.29.58:394][228]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Objects/Broken_Concrete.Broken_Concrete]
+[2020.08.29-18.29.58:394][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Objects/Broken_Concrete]
+[2020.08.29-18.29.58:411][228]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Broken_Concrete_Auto2E406E9FA46A811DB9D110E80AD7631C8.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Autosaves/Game/Assets/Objects/Broken_Concrete_Auto2.uasset'
+[2020.08.29-18.29.58:412][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Objects/Brass] ([1] browsable assets)...
+[2020.08.29-18.29.58:436][228]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Objects/Brass.Brass]
+[2020.08.29-18.29.58:436][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Objects/Brass]
+[2020.08.29-18.29.58:457][228]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Brass_Auto2B3447B694841C2B3EDD2308D0C642A4B.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Autosaves/Game/Assets/Objects/Brass_Auto2.uasset'
+[2020.08.29-18.29.58:458][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Objects/2x1_Door_and_Frame_Frame] ([1] browsable assets)...
+[2020.08.29-18.29.58:484][228]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Objects/2x1_Door_and_Frame_Frame.2x1_Door_and_Frame_Frame]
+[2020.08.29-18.29.58:484][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Objects/2x1_Door_and_Frame_Frame]
+[2020.08.29-18.29.58:505][228]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/2x1_Door_and_Frame_Frame_Auto294A780204A9AC053510180921AFA1E87.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Autosaves/Game/Assets/Objects/2x1_Door_and_Frame_Frame_Auto2.uasset'
+[2020.08.29-18.29.58:506][228]LogFileHelpers: Auto-saving content packages took 1.582
+[2020.08.29-18.29.59:656][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.29-18.30.28:865][470]LogSlate: Window 'Guardar nivel como' being destroyed
+[2020.08.29-18.30.29:088][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level1" FILE="../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/Level/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.29-18.30.29:401][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.08.29-18.30.29:435][470]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Level1F15DEB634D5C21BE90390A811395948C.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/Level/Level1.umap'
+[2020.08.29-18.30.30:342][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level1_BuiltData" FILE="../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/Level/Level1_BuiltData.uasset" SILENT=true
+[2020.08.29-18.30.30:467][470]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Level1_BuiltDataC2B9EA094027AE106D293C850028E6E7.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/Level/Level1_BuiltData.uasset'
+[2020.08.29-18.30.30:475][470]LogFileHelpers: Saving map 'Level1' took 1.410
+[2020.08.29-18.30.30:718][470]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.29-18.30.30:718][470]LogContentValidation: Display: Validating World /Game/Level/Level1.Level1
+[2020.08.29-18.30.30:718][470]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level1_BuiltData.Level1_BuiltData
+[2020.08.29-18.30.44:098][283]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.29-18.30.44:791][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Frame)
+[2020.08.29-18.30.45:319][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Frame)
+[2020.08.29-18.30.45:984][443]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.29-18.30.49:886][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2020.08.29-18.30.56:434][275]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.29-18.30.57:380][363]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.29-18.31.20:305][662]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.29-18.31.20:954][722]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.29-18.31.26:804][ 64]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Objects/Wood.Wood
+[2020.08.29-18.31.27:279][ 64]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.08.29-18.31.31:370][ 64]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.08.29-18.31.31:389][ 64]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.29-18.31.31:389][ 64]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.08.29-18.31.31:389][ 64]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.29-18.31.31:529][ 64]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.29-18.31.34:697][ 64]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.08.29-18.31.35:103][ 65]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.29-18.31.35:103][ 65]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.08.29-18.31.35:103][ 65]LogSlate: Took 0.285116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.29-18.31.35:880][ 75]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.29-18.31.36:130][ 77]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.08.29-18.31.36:986][ 86]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.08.29-18.31.38:650][107]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.08.29-18.31.38:703][108]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.08.29-18.31.38:812][110]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.08.29-18.31.39:277][111]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.29-18.31.39:277][111]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.29-18.31.39:277][111]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.29-18.31.39:277][111]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.29-18.31.41:013][122]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.08.29-18.31.46:227][288]LogSlate: Window 'Wood' being destroyed
+[2020.08.29-18.32.56:898][359]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.08.29-18.32.56:953][360]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.29-18.32.56:953][360]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.08.29-18.32.56:953][360]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.29-18.33.00:270][492]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.08.29-18.33.01:207][517]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.08.29-18.33.01:997][532]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.08.29-18.33.03:145][557]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.08.29-18.33.03:240][558]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.08.29-18.33.03:486][568]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.08.29-18.33.06:103][606]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.08.29-18.33.06:103][606]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.08.29-18.33.06:103][606]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.29-18.33.06:103][606]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.29-18.35.32:302][296]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.08.29-18.35.32:314][296]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.29-18.35.32:349][296]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.29-18.35.32:349][296]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.08.29-18.35.32:349][296]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.29-18.35.32:351][296]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.08.29-18.35.32:352][296]LogMaterial: Warning: /Engine/Transient.Wood (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.08.29-18.35.32:352][296]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.08.29-18.35.32:360][296]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.29-18.35.32:603][296]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2020.08.29-18.35.32:961][296]LogSlate: Took 0.054118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.08.29-18.36.05:021][529]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.08.29-18.36.05:457][529]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.29-18.36.05:463][529]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.29-18.36.05:463][529]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.08.29-18.36.05:463][529]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.29-18.36.05:467][529]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.08.29-18.36.10:058][740]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.08.29-18.36.10:483][754]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.08.29-18.36.11:028][763]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.08.29-18.36.11:694][781]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.08.29-18.36.13:103][803]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2020.08.29-18.36.13:215][806]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.08.29-18.36.15:655][838]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.08.29-18.36.15:759][840]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.08.29-18.36.16:514][864]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.08.29-18.36.17:205][874]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.08.29-18.36.20:095][897]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.08.29-18.36.20:095][897]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.08.29-18.36.20:360][900]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.08.29-18.36.21:861][939]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.08.29-18.36.21:861][939]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.08.29-18.36.21:861][939]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.08.29-18.36.21:861][939]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.29-18.36.21:861][939]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.08.29-18.36.21:861][939]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.29-18.36.52:472][897]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.08.29-18.36.52:482][897]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.29-18.36.52:483][897]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.08.29-18.36.52:483][897]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.29-18.36.55:032][ 58]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.08.29-18.36.55:702][ 72]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.08.29-18.36.56:133][ 80]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.08.29-18.36.56:730][ 91]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.29-18.36.57:219][105]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.08.29-18.36.58:367][124]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.08.29-18.36.59:551][156]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.08.29-18.36.59:551][156]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.08.29-18.36.59:551][156]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.08.29-18.36.59:551][156]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.29-18.36.59:551][156]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.08.29-18.36.59:551][156]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.29-18.37.08:411][781]LogMaterialEditor: Saving and Compiling material Wood
+[2020.08.29-18.37.46:086][781]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.08.29-18.37.46:148][781]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.08.29-18.37.46:148][781]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.08.29-18.37.46:148][781]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.08.29-18.37.46:588][781]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2020.08.29-18.37.46:684][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.08.29-18.37.46:820][781]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.29-18.37.47:986][781]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.08.29-18.37.48:553][781]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2020.08.29-18.37.48:553][781]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.08.29-18.37.49:675][781]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.08.29-18.37.49:675][781]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.08.29-18.37.49:675][781]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.08.29-18.37.50:800][781]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.08.29-18.37.51:360][781]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.08.29-18.37.51:360][781]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.08.29-18.37.51:360][781]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.08.29-18.37.51:721][781]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.08.29-18.37.52:019][781]TextureStreamingBuild: Display: Compiling optional shaders took 5.312 seconds.
+[2020.08.29-18.37.54:355][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.08.29-18.37.55:109][781]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.29-18.37.56:804][781]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.08.29-18.37.57:585][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Objects/Wood" FILE="../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/Assets/Objects/Wood.uasset" SILENT=true
+[2020.08.29-18.37.57:614][781]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Wood31769404416DE271685F648A7A9EDF80.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/Assets/Objects/Wood.uasset'
+[2020.08.29-18.37.57:692][781]AssetCheck: New page: Asset Save: Wood
+[2020.08.29-18.37.57:692][781]LogContentValidation: Display: Validating Material /Game/Assets/Objects/Wood.Wood
+[2020.08.29-18.37.57:702][781]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.08.29-18.37.57:702][781]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.08.29-18.37.57:702][781]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.08.29-18.37.57:702][781]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.29-18.37.57:702][781]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.08.29-18.37.57:702][781]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.29-18.38.46:583][221]LogMaterialEditor: Saving and Compiling material Wood
+[2020.08.29-18.38.46:602][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Objects/Wood" FILE="../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/Assets/Objects/Wood.uasset" SILENT=true
+[2020.08.29-18.38.46:908][221]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Wood796634E7463A6A54D87906B344FCD1AE.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/Assets/Objects/Wood.uasset'
+[2020.08.29-18.38.46:921][221]AssetCheck: New page: Asset Save: Wood
+[2020.08.29-18.38.46:921][221]LogContentValidation: Display: Validating Material /Game/Assets/Objects/Wood.Wood
+[2020.08.29-18.38.48:371][342]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.29-18.38.48:371][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.29-18.38.59:839][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2020.08.29-18.39.02:900][176]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.29-18.39.20:894][399]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.29-18.39.47:737][287]Candidate modules for hot reload:
+[2020.08.29-18.39.47:737][287]  SabadoClase2
+[2020.08.29-18.39.47:737][287]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SabadoClase2,6263 SabadoClase2Editor Win64 Development -Project="C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/SabadoClase2.uproject" "C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/SabadoClase2.uproject"  -IgnoreJunk]
+[2020.08.29-18.39.48:061][287]Warning: Starting HotReload took  2.3s.
+[2020.08.29-18.39.50:383][287]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.29-18.40.13:912][567]CompilerResultsLog: New page: Compilación - 29 ago. 2020 08:40:13
+[2020.08.29-18.40.13:926][567]CompilerResultsLog: Building SabadoClase2Editor...
+[2020.08.29-18.40.13:926][567]CompilerResultsLog: Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.29-18.40.13:926][567]CompilerResultsLog: Building 3 actions with 4 processes...
+[2020.08.29-18.40.13:926][567]CompilerResultsLog:   [1/3] UE4Editor-SabadoClase2-6263.lib
+[2020.08.29-18.40.13:926][567]CompilerResultsLog:      Creando biblioteca C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\UE4Editor\Development\SabadoClase2\UE4Editor-SabadoClase2-6263.lib y objeto C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\UE4Editor\Development\SabadoClase2\UE4Editor-SabadoClase2-6263.exp
+[2020.08.29-18.40.13:926][567]CompilerResultsLog:   [2/3] UE4Editor-SabadoClase2-6263.dll
+[2020.08.29-18.40.13:926][567]CompilerResultsLog:      Creando biblioteca C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\UE4Editor\Development\SabadoClase2\UE4Editor-SabadoClase2-6263.suppressed.lib y objeto C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\UE4Editor\Development\SabadoClase2\UE4Editor-SabadoClase2-6263.suppressed.exp
+[2020.08.29-18.40.13:926][567]CompilerResultsLog:   [3/3] SabadoClase2Editor.target
+[2020.08.29-18.40.13:926][567]CompilerResultsLog: Total time in Parallel executor: 15.46 seconds
+[2020.08.29-18.40.13:926][567]CompilerResultsLog: Total execution time: 22.96 seconds
+[2020.08.29-18.40.13:926][567]LogMainFrame: MainFrame: Module compiling took 27.681 seconds
+[2020.08.29-18.40.14:041][567]LogContentBrowser: Native class hierarchy updated for 'SabadoClase2' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2020.08.29-18.40.14:099][567]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.08.29-18.40.16:033][567]LogContentBrowser: Native class hierarchy populated in 0.0172 seconds. Added 3428 classes and 823 folders.
+[2020.08.29-18.40.16:165][567]Display: HotReload took 30.4s.
+[2020.08.29-18.40.20:171][786]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.29-18.40.20:798][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.29-18.40.21:490][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.08.29-18.40.21:543][851]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Level1_Auto37499CD77425F4EA2F411F8A16D9F4236.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Autosaves/Game/Level/Level1_Auto3.umap'
+[2020.08.29-18.40.21:554][851]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Level1' took 0.296
+[2020.08.29-18.40.21:554][851]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.296
+[2020.08.29-18.40.23:876][994]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.29-18.41.33:347][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.29-18.41.34:730][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2020.08.29-18.42.02:190][738]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.29-18.44.09:616][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level1" FILE="../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/Level/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.29-18.44.09:634][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.08.29-18.44.09:661][204]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Level17B5F07494B7919F5BC6E11AC1F4BA775.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/Level/Level1.umap'
+[2020.08.29-18.44.09:709][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level1_BuiltData" FILE="../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/Level/Level1_BuiltData.uasset" SILENT=true
+[2020.08.29-18.44.10:335][204]LogSavePackage: Moving '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Saved/Level1_BuiltData261B17F94400DF537CBF169F254A6644.tmp' to '../../../../../../Users/I3 3220/Documents/Unreal Projects/SabadoClase2/Content/Level/Level1_BuiltData.uasset'
+[2020.08.29-18.44.10:587][204]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.29-18.44.10:587][204]LogContentValidation: Display: Validating World /Game/Level/Level1.Level1
+[2020.08.29-18.44.10:587][204]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/Level1_BuiltData.Level1_BuiltData
+[2020.08.29-18.44.30:698][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.08.29-18.44.41:748][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.29-18.44.42:521][152]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.29-18.44.43:245][216]Cmd: TRANSACTION UNDO
+[2020.08.29-18.44.43:245][216]LogEditorTransaction: Undo Pinchar en los actores
+[2020.08.29-18.44.44:383][272]Cmd: TRANSACTION UNDO
+[2020.08.29-18.44.44:383][272]LogEditorTransaction: Undo Pinchar en los actores
+[2020.08.29-18.44.45:088][324]Cmd: TRANSACTION UNDO
+[2020.08.29-18.44.45:088][324]LogEditorTransaction: Undo Pinchar en los actores
+[2020.08.29-18.44.47:623][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.08.29-18.44.59:268][243]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.08.29-18.44.59:268][243]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.08.29-18.45.14:578][243]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.29-18.45.39:442][243]Candidate modules for hot reload:
+[2020.08.29-18.45.39:442][243]  SabadoClase2
+[2020.08.29-18.45.39:443][243]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SabadoClase2,9935 SabadoClase2Editor Win64 Development -Project="C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/SabadoClase2.uproject" "C:/Users/I3 3220/Documents/Unreal Projects/SabadoClase2/SabadoClase2.uproject"  -IgnoreJunk]
+[2020.08.29-18.52.35:767][243]CompilerResultsLog: New page: Compilación - 29 ago. 2020 08:52:35
+[2020.08.29-18.52.35:767][243]CompilerResultsLog: Creating makefile for SabadoClase2Editor (.uproject file is newer)
+[2020.08.29-18.52.35:767][243]CompilerResultsLog: Parsing headers for SabadoClase2Editor
+[2020.08.29-18.52.35:767][243]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\SabadoClase2.uproject" "C:\Users\I3 3220\Documents\Unreal Projects\SabadoClase2\Intermediate\Build\Win64\SabadoClase2Editor\Development\SabadoClase2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\I3 3220\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.08.29-18.52.35:767][243]CompilerResultsLog: Reflection code generated for SabadoClase2Editor in 308.6274989 seconds
+[2020.08.29-18.52.35:767][243]CompilerResultsLog: Building SabadoClase2Editor...
+[2020.08.29-18.52.35:767][243]CompilerResultsLog: Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.29-18.52.35:767][243]CompilerResultsLog: Building 9 actions with 4 processes...
+[2020.08.29-18.52.35:767][243]LogMainFrame: MainFrame: Module compiling took 416.330 seconds
+[2020.08.29-18.52.35:961][243]Warning: HotReload failed, recompile failed
+[2020.08.29-18.52.35:998][243]Warning: RebindPackages failed because compilation failed.
+[2020.08.29-18.52.38:403][243]LogSlate: Window 'Mensaje' being destroyed
+[2020.08.29-18.52.38:408][243]LogSlate: Window 'Add C++ Component' being destroyed
+[2020.08.29-18.52.38:416][243]Message dialog closed, result: Cancel, title: Mensaje, text: Successfully added class 'WorldPosition', however you must recompile the 'SabadoClase2' module before it will appear in the Content Browser. Failed to automatically hot reload the 'SabadoClase2' module.
+
+Would you like to open the Output Log to see more details?
+[2020.08.29-18.52.38:416][243]LogSlate: Window 'Add C++ Component' being destroyed
+[2020.08.29-18.52.38:528][243]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Class /Script/SabadoClase2.WorldPosition'
+[2020.08.29-18.52.38:738][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
